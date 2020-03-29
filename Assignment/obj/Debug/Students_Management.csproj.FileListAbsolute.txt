@@ -1,0 +1,5 @@
+/Users/HoangHung/Desktop/C#/Assignment/Assignment/bin/Debug/Assignment.exe
+/Users/HoangHung/Desktop/C#/Assignment/Assignment/bin/Debug/Assignment.pdb
+/Users/HoangHung/Desktop/C#/Assignment/Assignment/obj/Debug/Students_Management.csproj.CoreCompileInputs.cache
+/Users/HoangHung/Desktop/C#/Assignment/Assignment/obj/Debug/Assignment.exe
+/Users/HoangHung/Desktop/C#/Assignment/Assignment/obj/Debug/Assignment.pdb
